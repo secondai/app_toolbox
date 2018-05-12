@@ -1,0 +1,8 @@
+{
+  "type": "capability:0.0.1:local:187h78h23",
+  "name": "capability_identify_initiate",
+  "data": {
+    "version": "1.0.0",
+    "key": "IdentifyInitiate"
+  }
+}

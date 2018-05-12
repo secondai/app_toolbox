@@ -1,0 +1,10 @@
+{
+  "type": "platform_nodes:Qmtlksjflsdjfljf",
+  "name": "platform_browser",
+  "data": {
+    "platform": "browser",
+    "defaultBranch": "master",
+    "repo": "app_notes",
+    "owner": "secondai"
+  }
+}

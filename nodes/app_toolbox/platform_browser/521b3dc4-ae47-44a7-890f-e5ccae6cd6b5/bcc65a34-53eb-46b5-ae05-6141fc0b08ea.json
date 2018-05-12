@@ -1,0 +1,8 @@
+{
+  "type": "external_identity_connect_method:0.0.1:local:382989239hsdfmn",
+  "name": "bcc65a34-53eb-46b5-ae05-6141fc0b08ea",
+  "data": {
+    "method": "http",
+    "connection": "https://teacher.second.ngrok.io/ai"
+  }
+}

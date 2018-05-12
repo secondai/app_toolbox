@@ -1,0 +1,7 @@
+{
+  "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
+  "name": "f5260642-c199-435c-9b4d-8f2bd3608b58",
+  "data": {
+    "typeMatch": "browser_startup:0.0.1:local:8831167ssd"
+  }
+}
